@@ -1,0 +1,31 @@
+
+.Registration_form{
+
+   
+    height: '800px';
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table.hover{
+      box-shadow: teal;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    /* border: 1px solid #dddddd; */
+
+  }
+
